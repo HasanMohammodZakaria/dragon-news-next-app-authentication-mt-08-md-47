@@ -14,7 +14,7 @@ const LogInPage = () => {
     console.log(data);
   };
   // console.log(errors);
-  console.log(watch("email"));
+  //console.log(watch("email"));
 
   return (
     <div className="container mx-auto min-h-[80vh] flex justify-center items-center mt-8 ">
